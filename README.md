@@ -1,56 +1,30 @@
-# 👨‍💻 Welcome to My GitHub Profile!  
+<h1 align="center">Hi 👋, I'm Jitender</h1>
+<h3 align="center">A passionate developer from India</h3>
+<img align=“right” alt="coding” width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fpinky057%2Ffree-certifications-for-developers-25ik&psig=AOvVaw0qDQHK9bYU1urrzqTCS74p&ust=1735292318126000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDCt-SRxYoDFQAAAAAdAAAAABAR”>
 
-![Header Image](https://via.placeholder.com/1000x300?text=Welcome+to+My+Coding+World)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitinrao&label=Profile%20views&color=0e75b6&style=flat" alt="jitinrao" /> </p>
 
-## About Me  
-Hi there! 👋 I'm a passionate developer with expertise in **Java**, **C++**, and **SQL**. I love solving problems, designing efficient solutions, and contributing to open-source projects.  
+<p align="left"> <a href="https://twitter.com/jitin_rao" target="blank"><img src="https://img.shields.io/twitter/follow/jitin_rao?logo=twitter&style=for-the-badge" alt="jitin_rao" /></a> </p>
 
----
+- 🌱 I’m currently learning **java,SQL,Linux**
 
-## 🛠️ Skills & Tools  
+- 📝 I regularly write articles on [www.linkedin.com/in/jitender7](www.linkedin.com/in/jitender7)
 
-### Programming Languages  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+- 📫 How to reach me **jitinrao489@gmail.com**
 
-### Tools & Frameworks  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+- 📄 Know about my experiences [https://pdf.ac/4bf7NP](https://pdf.ac/4bf7NP)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jitin_rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jitin_rao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jitender." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitender." height="30" width="40" /></a>
+</p>
 
-## 🚀 Projects  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-### 🔹 [Project Name](#)  
-**Description**: Brief description of your project.  
-**Tech Stack**: `Java`, `MySQL`  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitinrao&show_icons=true&locale=en&layout=compact" alt="jitinrao" /></p>
 
-### 🔹 [Another Project](#)  
-**Description**: Brief description of your project.  
-**Tech Stack**: `C++`, `SQL`  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitinrao&show_icons=true&locale=en" alt="jitinrao" /></p>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>  
-
----
-
-## 📫 Let's Connect  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
-- 🌐 [Portfolio](https://yourportfolio.com)  
-- 📧 Email: your.email@example.com  
-
----
-
-![Footer Image](https://via.placeholder.com/1000x150?text=Happy+Coding!+🚀)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitinrao&" alt="jitinrao" /></p>
